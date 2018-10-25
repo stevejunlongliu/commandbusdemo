@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.reflections:reflections:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/unknown/reflections-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/unknown/reflections-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/unknown/reflections-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
